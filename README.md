@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D1117&size=40&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Henrique+Michalsky;+Data+Scientist;+Be+Welcome!+:.;speed=50
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D1117&size=40&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Henrique+Michalsky;+Data+Scientist;+Be+Welcome!+:.;speed=100
 )
 
  ### Main skills: 

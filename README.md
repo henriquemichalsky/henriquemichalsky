@@ -13,6 +13,7 @@
 - 🎯 Em busca de transformar dados brutos em insights acionáveis
 - 📊 Foco em **Análise de Dados**, **Machine Learning** e **Visualização**
 - 🚀 Construindo portfólio com projetos reais de Data Science
+- 🤖 Usuário ativo de ferramentas de IA no fluxo de trabalho
 - 📍 Vila Velha, Espírito Santo — Brasil
 
 ---
@@ -54,6 +55,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)&nbsp;
+
+</div>
+
+---
+
+## 🤖 Ferramentas de IA
+
+<div align="center">
+
+![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white)&nbsp;
+![Claude](https://img.shields.io/badge/Claude_Sonnet_4.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
 
 </div>
 

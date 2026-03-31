@@ -75,14 +75,6 @@
 
 ---
 
-## 🗂️ Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [🚚 Previsão de Atrasos - Olist](https://github.com/henriquemichalsky/olist-delivery-delay-prediction) | Modelo preditivo para atrasos em entregas do e-commerce brasileiro | Python · SQL · scikit-learn |
-
----
-
 <div align="center">
 
 ### 📬 Contato

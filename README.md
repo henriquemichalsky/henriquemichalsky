@@ -65,7 +65,11 @@
 <div align="center">
 
 ![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white)&nbsp;
-![Claude](https://img.shields.io/badge/Claude_Sonnet_4.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
+![Claude](https://img.shields.io/badge/Claude_Sonnet_4.6_Thinking-D97757?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
+![GPT-5](https://img.shields.io/badge/GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini_3.1_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+![Grok](https://img.shields.io/badge/Grok_4-000000?style=for-the-badge&logo=x&logoColor=white)&nbsp;
+![o3](https://img.shields.io/badge/o3-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
 </div>
 

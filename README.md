@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01696f&height=180&section=header&text=Henrique%20Michalsky&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Data%20Scientist%20%7C%20Data%20Analyst&descAlignY=65&descSize=20&descColor=ffffff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01696f&height=220&section=header&text=Henrique%20Michalsky&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Data%20Scientist%20%7C%20Data%20Analyst&descAlignY=62&descSize=22&descColor=e0f2f1"/>
 
 <div align="center">
 
